@@ -19,7 +19,7 @@ h1{
 .todo-container {
     max-width: 400px;
     width: 100%;
-    background-color: #ffe8ad;
+    background-color: #FFEFEF;
     text-align: center;
     padding: 20px;
 }
@@ -48,7 +48,7 @@ h1{
     display: block;
     width: 2px;
     height: 15px;
-    background-color: #ffe8ad;
+    background-color: #FFEFEF;
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
@@ -87,8 +87,8 @@ h1{
     width: 5px;
     height: 10px;
     transform: translate(-2px, -2px) rotate(45deg);
-    border-right: 2px solid #f1b116;
-    border-bottom: 2px solid #f1b116;
+    border-right: 2px solid #FF76CE;
+    border-bottom: 2px solid #FF76CE;
 }
 
 .delete-btn-wrap button{
